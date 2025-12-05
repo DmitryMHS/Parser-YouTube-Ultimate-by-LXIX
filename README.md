@@ -61,3 +61,13 @@ cd <папка_репозитория>
 python main.py
 ```
 
+---
+
+<div align="center">
+  <br>
+  <strong>Создано с ❤️ для сообщества</strong><br>
+  ✉️ TG: https://t.me/LXIXdev | 💼 Discord: https://discord.gg/bGY8sth6yB
+</div>
+
+
+---
