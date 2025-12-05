@@ -1,6 +1,8 @@
 # YouTube Parser Ultimate
 
-![YouTube Parser Ultimate](screenshot.png)  
+![YouTube Parser Ultimate by LXIX]
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/935f6188-d811-4adb-aa5a-11ff9bae873a" />
+
 *Пример интерфейса YouTube Parser Ultimate*
 
 ---
@@ -44,17 +46,20 @@ YouTube Parser Ultimate — это удобный десктопный парс�
 Откройте терминал или PowerShell и выполните команду:
 
 ```bash
-pip install customtkinter yt-dlp requests pillow pandas matplotlib pyperclip```
+pip install customtkinter yt-dlp requests pillow pandas matplotlib pyperclip
+```
 
 ### 3. Скачайте код
 Клонируйте репозиторий и перейдите в папку проекта:
 
 ```bash
 git clone <ваш_репозиторий>
-cd <папка_репозитория>```
+cd <папка_репозитория>
+```
 
 ### 4. Запуск парсера
 
 ```bash
-python main.py```
+python main.py
+```
 
