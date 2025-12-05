@@ -1,6 +1,6 @@
 # YouTube Parser Ultimate
 
-![YouTube Parser Ultimate by LXIX]
+[YouTube Parser Ultimate by LXIX]
 <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/935f6188-d811-4adb-aa5a-11ff9bae873a" />
 
 *Пример интерфейса YouTube Parser Ultimate*
